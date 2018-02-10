@@ -10,6 +10,9 @@ categories: Quotes
     <img src="https://blogs.rajendraarora.com/assets/img/life-is-like-a-stock-market.jpg" data-canonical-src="https://blogs.rajendraarora.com/assets/img/life-is-like-a-stock-market.jpg" />
 </p>
 
-<p align="center">
+<br />
+<br />
+<br />
+<h2 align="center">
     Your life is like the stock market: <strong>you will fail or succeed</strong>, <i>based on the performance you do</i>
-</p>
+</h2>
