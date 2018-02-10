@@ -15,7 +15,7 @@ Today I spend most of my day working with bleeding edge front end as well as bac
 
 I work daily with a Mac, Unix based OS, GIT and Docker/Vagrant environment. Also I am huge fan of Machine Learning.
 
-Personal Website: [https://www.rajendraarora.com/](https://www.rajendraarora.com/)
+Website: [https://www.rajendraarora.com/](https://www.rajendraarora.com/)
 
 Github: [Github (Rajendra Arora)](https://github.com/rajendraarora16)
 
