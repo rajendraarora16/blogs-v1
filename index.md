@@ -6,4 +6,6 @@
 layout: home
 ---
 
-<h5>Research Blog by Rajendra Arora</h5>
+<p align="center">
+    Research Blog by <a href="https://www.rajendraarora.com">Rajendra Arora</a>
+</p>
