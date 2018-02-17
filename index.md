@@ -7,5 +7,5 @@ layout: home
 ---
 
 <p align="center">
-    Research Blog by <a href="https://www.rajendraarora.com">Rajendra Arora</a>
+    Research blog by <a href="https://www.rajendraarora.com">Rajendra Arora</a>
 </p>
