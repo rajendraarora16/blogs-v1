@@ -31,8 +31,8 @@ Kumar is designed and capable of representing the arbitarily complex resoning ta
 
 However, I am doing much more research where I could make this model as best and could perform a well operations to manupulate the task at hand.
 
-I also wanted to implement a computational techniques to the analysis and synthesis in natural language speech with component of artificial intelligency. NLP (Natural language processing) is a concerned with interactions with humans and bot.
+I also wanted to implement a computational techniques to the analysis and synthesis in natural language speech with component of artificial intelligency in a good manner of NLP (Natural language processing is a concerned with interactions with humans and bot).
 
-
+Stay tunes for much more..
 
 
