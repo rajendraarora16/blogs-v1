@@ -9,7 +9,7 @@ Recently I have made a personal virtual assistant linked with multiple APIs and 
 
 <strong><a href="https://kumar.rajendraarora.com" target="_blank">Kumar</a></strong>
 
-You can ask Kumar for searching train availability and PNR status etc. It also gives you accuracy of clearing waiting list for seat selection.
+Kumar helps for searching train availability and PNR status etc. It also gives you accuracy of clearing waiting list for seat selection.
 
 <strong>Finding train seat availability</strong>
 
