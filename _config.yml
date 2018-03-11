@@ -3,10 +3,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Rajendra Arora
+title: Research blog
 email: contact.rajendraarora@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Rajendra is a Software Developer at BookMyShow.com in Mumbai. Known as rajendraarora16 in online virtual world, He love to create web bots and huge fan of Machine Learning. He's quite fascinated about working on large distributed systems and writes code that can scale well.
+  Rajendra Arora is a technology enthusiast. Known as rajendraarora16 in online virtual world, He love to create web bots and huge fan of Machine Learning programs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blogs.rajendraarora.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rajendraarora16
@@ -17,6 +17,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
