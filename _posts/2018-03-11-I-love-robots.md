@@ -5,7 +5,7 @@ date:   2018-03-11
 categories: artificial-intelligence
 ---
 
-Recently I have made a personal virtual assistant linked with multiple APIs and follow the skills you give from the SUSI architectures. 
+Kumar a personal virtual assistant linked with multiple APIs and follow the skills you give from the give from the SUSI architectures. 
 
 <strong><a href="https://kumar.rajendraarora.com" target="_blank">Kumar</a></strong>
 
