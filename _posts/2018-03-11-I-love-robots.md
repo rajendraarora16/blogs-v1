@@ -5,7 +5,7 @@ date:   2018-03-11
 categories: artificial-intelligence
 ---
 
-Meet my virtual assistant <a href="https://kumar.rajendraarora.com" target="_blank">Kumar</a> linked with multiple APIs and follow the skills you give from the give from the SUSI architectures. 
+Meet my virtual assistant <a href="https://kumar.rajendraarora.com" target="_blank">Kumar</a> linked with multiple APIs and follow the skills you give from the SUSI architectures. 
 
 <strong><a href="https://kumar.rajendraarora.com" target="_blank">Kumar</a></strong>
 
