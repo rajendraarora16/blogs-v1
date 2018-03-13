@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How to detect object using tensorflow with real time web cam"
+comments: true
 date:   2018-02-03 13:33:01 +0530
 categories: machine-learning
 ---
