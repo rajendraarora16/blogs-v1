@@ -180,6 +180,9 @@ Now run final step `python object-detection-real-time.py`. It will take a few mo
 
 If you face any issues related to setup, just drop an email at [contact@rajendraarora.com](mailto:contact@rajendraarora.com) or comment below. I will get back to your queries ASAP.
 
+
+
+
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
