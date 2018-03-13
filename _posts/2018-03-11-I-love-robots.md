@@ -39,10 +39,11 @@ Stay tunes for much more..
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
-this.page.url = 'https://blogs.rajendraarora.com/artificial-intelligence/2018/03/11/I-love-robots.html';  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = 'artificial-intelligence/2018/03/11/I-love-robots.html'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.url = 'https://blogs.rajendraarora.com/artificial-intelligence/2018/03/11/I-love-robots.html';  
+// Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = 'artificial-intelligence/2018/03/11/I-love-robots.html';
 };
-(function() { // DON'T EDIT BELOW THIS LINE
+(function() {
 var d = document, s = d.createElement('script');
 s.src = 'https://https-blogs-rajendraarora-com.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
