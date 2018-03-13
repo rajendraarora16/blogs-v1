@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "I love robots"
+comments: true
 date:   2018-03-11
 categories: artificial-intelligence
 ---
@@ -35,4 +36,19 @@ I also wanted to implement a computational techniques to the analysis and synthe
 
 Stay tunes for much more..
 
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = 'https://blogs.rajendraarora.com/artificial-intelligence/2018/03/11/I-love-robots.html';  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = 'artificial-intelligence/2018/03/11/I-love-robots.html'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-blogs-rajendraarora-com.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<script id="dsq-count-scr" src="//https-blogs-rajendraarora-com-1.disqus.com/count.js" async></script>
 
