@@ -1,24 +1,25 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
 
 <p align="center">
     <img src="../assets/img/rajendra_circle.gif" data-canonical-src="../assets/img/rajendra_circle.gif" width="200" height="200" />
 </p>
+<br/>
 
+### Hi there 👋
 
-Hi, I am focused on Front End in javascript as well as Back End focused on Node.js development. 
+<br/>
 
-Today I spend most of my day working with bleeding edge front end as well as back end technologies and concepts like React, node.js, functional programming and immutability. But I am not limited to these.
+[![Website](https://img.shields.io/badge/website-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://rajendraarora.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rajendraarora16)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arorar16/)
 
-I work daily with a Mac, Unix based OS, GIT and Docker/Vagrant environment. Also I am huge fan of Machine Learning.
+<br/>
 
-Website: [https://www.rajendraarora.com/](https://www.rajendraarora.com/)
+My name is **Raj**! I love coding and debugging. 
 
-Github: [Github (Rajendra Arora)](https://github.com/rajendraarora16)
+![Rajendra Arora Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=rajendraarora16&show_icons=true&include_all_commits=true&theme=radical)
 
-Stackoverflow: [Stackoverflow (Rajendra Arora)](https://stackoverflow.com/users/2802622/)
-
-
+![Rajendra Arora Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rajendraarora16&layout=compact&theme=radical)
