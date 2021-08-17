@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How to detect object using tensorflow with real time web cam"
+comments: true
 date:   2018-02-03 13:33:01 +0530
 categories: machine-learning
 ---
@@ -177,4 +178,24 @@ then run `protoc --python_out=. object_detection/protos/*.proto`
 
 Now run final step `python object-detection-real-time.py`. It will take a few moment as it will start downloading pre trained models. 
 
-If you face any issues related to setup, just drop an email at [contact@rajendraarora.com](mailto:contact@rajendraarora.com). I will get back to your queries ASAP.
+If you face any issues related to setup, just drop an email at [contact@rajendraarora.com](mailto:contact@rajendraarora.com) or comment below. I will get back to your queries ASAP.
+
+
+
+
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = 'https://blogs.rajendraarora.com/machine-learning/2018/02/03/how-to-detect-object-using-tensorflow-with-web-cam.html';  
+// Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = 'machine-learning/2018/02/03/how-to-detect-object-using-tensorflow-with-web-cam.html';
+};
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://https-blogs-rajendraarora-com.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<script id="dsq-count-scr" src="//https-blogs-rajendraarora-com-1.disqus.com/count.js" async></script>

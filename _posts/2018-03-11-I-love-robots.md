@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "I love robots"
+comments: true
 date:   2018-03-11
 categories: artificial-intelligence
 ---
 
-Recently I have made a personal virtual assistant linked with multiple APIs and follow the skills you give from the SUSI architectures. 
+Meet my virtual assistant <a href="https://kumar.rajendraarora.com" target="_blank">Kumar</a> linked with multiple APIs and follow the skills you give from the SUSI architectures. 
 
 <strong><a href="https://kumar.rajendraarora.com" target="_blank">Kumar</a></strong>
 
-You can ask Kumar for searching train availability and PNR status etc. It also gives you accuracy of clearing waiting list for seat selection.
+Kumar helps for searching train availability and PNR status etc. It also gives you accuracy of clearing waiting list for seat selection.
 
 <strong>Finding train seat availability</strong>
 
@@ -31,8 +32,27 @@ Kumar is designed and capable of representing the arbitarily complex resoning ta
 
 However, I am doing much more research where I could make this model as best and could perform a well operations to manupulate the task at hand.
 
-I also wanted to implement a computational techniques to the analysis and synthesis in natural language speech with component of artificial intelligency. NLP (Natural language processing) is a concerned with interactions with humans and bot.
+I also wanted to implement a computational techniques to the analysis and synthesis in natural language speech with component of artificial intelligency in a good manner of NLP (Natural language processing is a concerned with interactions with humans and bot).
+
+Stay tunes for much more..
 
 
 
+
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = 'https://blogs.rajendraarora.com/artificial-intelligence/2018/03/11/I-love-robots.html';  
+// Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = 'artificial-intelligence/2018/03/11/I-love-robots.html';
+};
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://https-blogs-rajendraarora-com.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<script id="dsq-count-scr" src="//https-blogs-rajendraarora-com-1.disqus.com/count.js" async></script>
 
